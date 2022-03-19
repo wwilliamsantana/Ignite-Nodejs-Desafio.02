@@ -23,6 +23,12 @@ Será permitida a criação de um usuário com `name` e `username`, b
 
 Tudo isso para cada usuário em específico. Além disso, dessa vez teremos um plano grátis onde o usuário só pode criar até dez *todos* e um plano Pro que irá permitir criar *todos* ilimitados, isso tudo usando middlewares para fazer as validações necessárias.
 
+## 🚀 Techs
+
+<ul>
+  <li>Node.js - Express</li>
+</ul>
+
 ### Desafio Concluído ✔️
 
 
