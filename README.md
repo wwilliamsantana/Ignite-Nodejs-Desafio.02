@@ -26,6 +26,7 @@ Tudo isso para cada usuário em específico. Além disso, dessa vez teremos um p
 ## 🚀 Techs
 
 <ul>
+  <li>JavaScript</li>
   <li>Node.js - Express</li>
 </ul>
 
